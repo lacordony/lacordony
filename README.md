@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laetitia ("Georgia" for friends)</h1>
 <h3 align="center">A software developer, former HR (yes, that's possible :muscle:)</h3>
 
-- 👨‍💻 All of my ended projects are available at [https://georgialr.github.io/](https://georgialr.github.io/)
-
 - :heart_eyes: I'm interested in : **climate change🌳, zero waste 🚮, animal rights🐶, green IT :computer:**
 
 - ⚡ Fun fact : **My nickname is Georgia because of one of my character in a role playing game**
