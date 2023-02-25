@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laetitia ("Georgia" for friends)</h1>
 <h3 align="center">A software developer, former HR (yes, that's possible :muscle:)</h3>
 
-<a href="https://app.daily.dev/CuriousGeorgia"><img src="https://github.com/GeorgiaLR/GeorgiaLR/blob/main/devcard.svg" style="float:right" width="250" alt="Georgia's Dev Card"/></a>
+<a href="https://app.daily.dev/CuriousGeorgia"><img src="https://github.com/GeorgiaLR/GeorgiaLR/blob/main/devcard.svg" style="float:right;" width="250" alt="Georgia's Dev Card"/></a>
 
 ⚡ Fun fact : **My nickname is Georgia because of one of my character in a role playing game**
 
