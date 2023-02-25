@@ -18,4 +18,4 @@ Technically, I'd love to develop skills in **CI/CD** <a href="https://www.docker
 
 <h3 align="left">Connect with me</h3> <a href="https://stackoverflow.com/users/georgialr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="georgialr" height="20" width="30" /></a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/GeorgiaLR/GeorgiaLR/blob/master/devcard.svg" width="400" alt="Georgia's Dev Card"/></a>
+<a href="https://app.daily.dev/CuriousGeorgia"><img src="https://github.com/GeorgiaLR/GeorgiaLR/blob/main/devcard.svg" width="400" alt="Georgia's Dev Card"/></a>
