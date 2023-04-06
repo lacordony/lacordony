@@ -14,8 +14,16 @@ I worked for energy sector and automotive sector. My job was to develop java int
 
 I'm interested in **climate change🌳, zero waste 🚮, animal rights🐶, green IT :computer:** and I'd love to find a job with a green objective.
 
-Technically, I'd love to develop skills in **CI/CD** <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/></a> or **Cloud** like AWS <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> to have a larger view on IT architecture not just development. In the other hand, I'm trying to develop skills on front-end size. I'm learning on my own **Vue.js** <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/></a> and **Bulma** <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="30" height="30"/></a>.
+Technically, I'd love to develop skills in **CI/CD** <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/></a> or **Cloud** like AWS <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> to have a larger view on global IT architecture and not just development. </br> I'm not really a front-end lover, I'm using mostly **Boostrap** or **Bulma** to avoid CSS as much as possible but I try to learn on my own **Vue.js** <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/></a> when I have some time (not much to be honest).
 
-<h3 align="left">Connect with me</h3> <a href="https://stackoverflow.com/users/georgialr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="georgialr" height="20" width="30" /></a>
+<h3 align="left">Projects</h3>
+
+I have created a [Github Pages](https://georgialr.github.io/) to share some knowledge and capitalize my own progression. I chose to use french language for this project because it's more a personal thing.
+
+I'll share the other ones with you soon.
+
+<h3 align="left">Readings</h3>
+
+Do you know daily.dev ? It's a chrome extension where you can find a lot of tech articles.
 
 <p align="right"><a href="https://app.daily.dev/GeorgiaLR"><img src="https://github.com/GeorgiaLR/GeorgiaLR/blob/main/devcard.svg" width="300" alt="Georgia's Dev Card"/></a></p>
