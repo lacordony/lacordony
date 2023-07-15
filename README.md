@@ -20,7 +20,7 @@ I'm not really a front-end lover, I'm using mostly **Bootstrap** or **Bulma** to
 
 <h3 align="left">Projects</h3>
 
-I have created a [Github Pages](https://georgialr.github.io/) to share some knowledge and capitalize my own progression. I chose to use french language for this project because it's more a personal thing.
+I have created a [Github Pages](https://devgeorgia.github.io/) to share some knowledge and capitalize my own progression. I chose to use french language for this project because it's more a personal thing.
 
 I'll share the other ones with you soon.
 
@@ -28,4 +28,4 @@ I'll share the other ones with you soon.
 
 Do you know daily.dev ? It's a chrome extension where you can find a lot of tech articles.
 
-<p align="right"><a href="https://app.daily.dev/GeorgiaLR"><img src="https://github.com/GeorgiaLR/GeorgiaLR/blob/main/devcard.svg" width="300" alt="Georgia's Dev Card"/></a></p>
+<p align="right"><a href="https://app.daily.dev/GeorgiaLR"><img src="https://github.com/DevGeorgia/DevGeorgia/blob/main/devcard.svg" width="300" alt="Georgia's Dev Card"/></a></p>
