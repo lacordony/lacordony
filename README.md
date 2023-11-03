@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laetitia ("Georgia" for friends)</h1>
+<h1 align="center">Hi 👋 I'm Laetitia</h1>
 <h3 align="center">A software developer, former HR (yes, that's possible :muscle:)</h3>
 
 ⚡ Fun fact : **My nickname is Georgia because of one of my character in a role playing game**
