@@ -30,5 +30,5 @@ I'll share the other ones with you soon.
 
 Do you know daily.dev ? It's a chrome extension where you can find a lot of tech articles.
 
-<p align="right"><a href="https://app.daily.dev/devgeorgia"><img src="https://api.daily.dev/devcards/935412a96bd644be9db40e545c509d84.png?r=o10" width="300" alt="Georgia's Dev Card"/></a></p>
+<p align="right"><a href="https://app.daily.dev/DevGeorgia"><img src="https://github.com/DevGeorgia/DevGeorgia/blob/main/devcard.svg" width="300" alt="Georgia's Dev Card"/></a></p>
 
