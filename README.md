@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Laetitia</h1>
 <h3 align="center">A software developer, former HR (yes, that's possible :muscle:)</h3>
 
-⚡ Fun fact : **My nickname is Georgia because of one of my character in a role playing game**
-
 <h3 align="left">Experience</h3>
 
 I'm java developer for 4 years, i'm working mostly with **Java** and **Spring** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
@@ -22,7 +20,7 @@ Then, I'd love to develop skills in **CI/CD** <a href="https://www.docker.com/" 
 
 <h3 align="left">Projects</h3>
 
-I have created a [Github Pages](https://devgeorgia.github.io/) to share some knowledge and capitalize my own progression. I chose to use french language for this project because it's more a personal thing.
+I have created a [Github Pages](https://lacordony.github.io/) to share some knowledge and capitalize my own progression. I chose to use french language for this project because it's more a personal thing.
 
 I'll share the other ones with you soon.
 
@@ -30,5 +28,5 @@ I'll share the other ones with you soon.
 
 Do you know daily.dev ? It's a chrome extension where you can find a lot of tech articles.
 
-<p align="right"><a href="https://app.daily.dev/DevGeorgia"><img src="https://github.com/DevGeorgia/DevGeorgia/blob/main/devcard.svg" width="300" alt="Georgia's Dev Card"/></a></p>
+<p align="right"><a href="https://app.daily.dev/lacordony"><img src="https://github.com/lacordony/lacordony/blob/main/devcard.svg" width="300" alt="lacordony's Dev Card"/></a></p>
 
